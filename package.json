@@ -1,0 +1,12 @@
+{
+  "name": "enricomarino-element-match",
+  "description": "selector match plugin for element",
+  "version": "0.0.1",
+  "keywords": [
+    "element",
+    "match",
+    "selector"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
